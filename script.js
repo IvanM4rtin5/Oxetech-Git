@@ -7,7 +7,7 @@ function incrementar( ){
 
 
 function zerar() {
-    
     document.getElementById("contador").innerText= 0
+    return i = 0
 }
 
